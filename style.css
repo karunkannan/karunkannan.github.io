@@ -53,15 +53,22 @@ p {
 
 p.side {
   text-align: left;
-  font-size: 150%
+  font-size: 115%
 }
 
-ul {
-  list-style-type: none;
-  color: #004466;
-  font-family: Helvetica;
-  font-weight: lighter;
-  text-transform: uppercase;
-
+p.text {
   font-size: 100%;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link, a:visited, a:active {
+  color: #cceeff;
+}
+
+a:hover {
+  color: #004466;
 }
