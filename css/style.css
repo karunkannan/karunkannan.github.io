@@ -692,8 +692,7 @@ h3.w3-head-project {
 .w3-edu-grid-header h3 {
        color: #00bcd4;
     font-size: 3em;
-        font-family: 'Poppins', sans-serif;
-	
+        font-family: 'Poppins', sans-serif;	
 }
 .w3-edu-info-right2 h3 {
    color: #fff;
@@ -713,6 +712,13 @@ h3.w3-head-project {
 	text-transform:capitalize;
 	letter-spacing: 2px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.w3-edu-info-right2 li{
+    color: #8a8a8a;
+    font-size: 1em;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    margin: 1em 0;
 }
 .w3-edu-info2 p {
     color: #8a8a8a;
